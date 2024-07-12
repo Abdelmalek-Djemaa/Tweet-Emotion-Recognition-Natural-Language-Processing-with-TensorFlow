@@ -22,8 +22,12 @@ The dataset consists of thousands of tweets labeled with six different emotions:
 - Love
 
 ## Requirements
-- Python 3.x
-- TensorFlow (version X.X.X)
+- Python
+- TensorFlow
+- pandas
+- numpy
+- matplotlib
+- scikit learn
 - Google Colab
 
 ## Getting Started
