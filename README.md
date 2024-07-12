@@ -34,7 +34,8 @@ The dataset consists of thousands of tweets labeled with six different emotions:
 1. Open the Google Colab notebook:
    [Link to Colab Notebook](https://colab.research.google.com/github/Abdelmalek-Djemaa/Tweet-Emotion-Recognition-Natural-Language-Processing-with-TensorFlow/blob/main/Tweet_Emotion_Recognition.ipynb)
 
-2. Ensure you have the required dataset. You can upload the dataset from the github repo.
+2. Ensure you have the required dataset. You can upload the dataset from the github repo
+    [data set] (https://github.com/Abdelmalek-Djemaa/Tweet-Emotion-Recognition-Natural-Language-Processing-with-TensorFlow/blob/b85fc4e58892c3e24659f97a036a7f6c270342ee/emotions.zip).
 
 ## Usage
 1. Prepare Data:
