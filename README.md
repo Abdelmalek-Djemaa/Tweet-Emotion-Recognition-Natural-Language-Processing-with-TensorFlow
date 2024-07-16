@@ -5,7 +5,7 @@
 ## Overview
 This project implements a recurrent neural network (RNN) using TensorFlow to classify emotions in tweets. It tackles a multi-class classification problem in natural language processing (NLP), where each tweet is categorized into one of six emotions.
 
-## Learning Objectives
+## Objectives
 - Utilizing TensorFlow for NLP tasks such as text classification
 - Implementing a Tokenizer for text preprocessing
 - Handling sequence padding and truncating
